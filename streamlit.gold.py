@@ -139,4 +139,5 @@ if __name__ == "__main__":
     main()
 
     #python -m pip install streamlit pandas numpy scikit-learn matplotlib seaborn requests
+
 #python -m streamlit run "c:\Users\acer\OneDrive\Desktop\gold price project\gold.py"
